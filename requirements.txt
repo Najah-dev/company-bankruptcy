@@ -15,5 +15,5 @@ numpy==1.23.5
 sklearn==0.0
 pickleshare==0.7.5
 joblib==1.0.1
-matplotlib==3.4.2
+matplotlib==3.7.1
 matplotlib-inline==0.1.2
