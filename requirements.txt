@@ -2,7 +2,7 @@ python-dotenv==1.0.0
 pymongo==4.3.3
 streamlit==1.23.1
 pandas==1.2.4
-pandas-flavor==0.2.0
+pandas-flavor==0.6.0
 pandasql==0.7.3
 plotly==5.14.1
 Pillow==8.2.0
